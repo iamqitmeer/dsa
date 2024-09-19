@@ -1,0 +1,49 @@
+How to Solve a Problem?
+
+Example Question.
+
+Find Sum Of 2 Number ---- a & b
+
+1. understand ( matlab ki problem kya kehti he. problem ko smjhna )
+2. input ( matlab problem agar smjh agayi to inputs ki talaaash krna. e.g. 2 number ka sum agar nikalna he to 2 number hone zroori he agar nhi he to dhoooondne/banane he).
+3. hamare paas input or taaaqat he 1 problem ko smjhne ki to ham use solve krdenge apne mind me yaa copy me uska solution likhna.
+
+Convert Kitaaab Wala ya Mind Wala Solution in to Code.
+
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Flowchart - Diagram of a Solution.
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+
+Example me  Agar Ham Sum of 2 Number Wali Problem Kr rahe he to Ham Har Step ko ham diagram ki shakal me likh skte he.
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Pseudo Code - General Login of Solution.
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Example Sab ko to JavaScript ya C++ to Nhi Aaati to ham jo bhi code likhte he use ham English ya koi bhi maadri zubaan me ham comment ya note likh skte he taki 3rd person aake hamara code/kaam smjh ske
+
+
+How Code Run?
+
+1. First understand the problem.
+2. Finding Inputs.
+3. Find Solution?
+4. Convert in Code? But Where?
